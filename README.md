@@ -2,6 +2,15 @@
 
 ## Weekly Updates
 
+### Week 6
+Last week, I completed the implementation of the login page and home page of the application. I also put in a couple placeholder pages for "friends", "saved", and "profile". After doing some research, I realized that the steps for implementing google sign-on weren't too difficult so I ended up completing that part. For now, the UI is very unrefined, but that may be updated in a future sprint, time permitting. I put in pictures of my progress below.
+
+This week, I plan to integrate location services into my application. Depending on how that goes, I will start working on the restaurant recommender portion of the application.
+
+The main impediment I can think of is that currently, I am developing on a windows computer, which limits me to android and device development. Originally, I planned to develop for both iOS and android, but that would require a lot more resources. For now, I will change the scope to only android devices. If I find a friend willing to let me borrow an apple device, I can do some testing in the future.
+
+I got a lot done this week so right now I need to try to maintain the momentum as much as possible.
+
 ### Week 5
 Last week, I planned out most of the stories I expected to complete the first 2 sprints, including application layout and ideation. I also started work on designing the home page and login page of the application.
 
@@ -60,7 +69,7 @@ For one, this application is meant to solve a problem that I have almost every w
 - Consult the CSPB community with certain roadblocks
 
 ### Project Assessments/Evaluation Criteria:
-- Application is functional across both Android and iOS
+- Application is functional across both Android emulator and Android test devices
 - Primary feature of event/restaurant recommendation is implemented and tested
 - Secondary features of social network, user data, etc. are implemented
 - Up-to-date project repository and all documentation complete
