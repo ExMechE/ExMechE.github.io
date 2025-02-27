@@ -2,6 +2,15 @@
 
 ## Weekly Updates
 
+### Week 7
+Last week, I planned to integrate location services into my application but I ran into some issues with heap memory when trying to integrate some basic data storage for testing purposes. Therefore, I had to pivot to implementing a database to store instances of user requests. I started implementing this via SQLite and moving a lot of the operations to background processes. I did not finish this as I am still troubleshooting this. 
+
+As mentioned above, I will still be troubleshooting and implementing this database storage. Time permitting, I will then resume the location services implementation. I am taking a break from UI refinements to quickly get the functionality of this application up and running. 
+
+The main obstacle in my path is resolving how data is stored. Hopefully I can resolve as much as I can this week which will then enable future queries to be performed similarly.
+
+Based on what happened last week, it is clear that I underestimated the time it would take to implement the location services package. In the future, in story point planning I think I need to have an "enabler" story to more accurately plan and estimate certain features of the application. For example, I wasn't sure how much time a database would take to implement. I will need to reevaluate features similar to that complexity.
+
 ### Week 6
 Last week, I completed the implementation of the login page and home page of the application. I also put in a couple placeholder pages for "friends", "saved", and "profile". After doing some research, I realized that the steps for implementing google sign-on weren't too difficult so I ended up completing that part. For now, the UI is very unrefined, but that may be updated in a future sprint, time permitting. I put in pictures of my progress below.
 
