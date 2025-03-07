@@ -2,6 +2,15 @@
 
 ## Weekly Updates
 
+### Week 8
+Last week, I had I troubleshooted the errors I was getting when trying to implement a database. I resolved all the errors and tested storing instances of restaurant searches. I stored these by time initiated and they contain several attributes such as category and price. There are still several optimizations I want to do related to data management and I need to separate some of the database operations into separate files.
+
+This week, I plan to continue exploring more of the applications of google maps API in this project. I am planning to implement filters for distance and top x restaurants in the area, among others. Time permitting, I will test all this functionality and make modifications to the UI for these steps.
+
+As of now, there aren't any obvious impediments. As always, there could be unexpected things come up, such as issues with how data is stored or transitions between the screens. This is why I became more conservative in what I schedule to get done in a week.
+
+One thing I plan to do to make this process work better is to do a bit more planning prior to implementation. In the last couple weeks, I started coding right away and ended up with a messy file that will need to be organized soon. This became more difficult to debug.
+
 ### Week 7
 Last week, I planned to integrate location services into my application but I ran into some issues with heap memory when trying to integrate some basic data storage for testing purposes. Therefore, I had to pivot to implementing a database to store instances of user requests. I started implementing this via SQLite and moving a lot of the operations to background processes. I did not finish this as I am still troubleshooting this. 
 
