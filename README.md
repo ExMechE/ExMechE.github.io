@@ -2,6 +2,15 @@
 
 ## Weekly Updates
 
+### Week 9
+Last week, I started implementing google maps API into my project but ran into quite a few issues which slowed down my progress. There seem to be some issues connecting to the service but I will devote the next week to smoothing out this part.
+
+This week, as mentioned above, I need to resolve all the issues with implementing google maps API and starting on the restaurant recommendation process. This will also be a good time to reflect on my progress so far through the Project Update Report. This may give me additional ideas for how to troubleshoot and the next steps.
+
+I don't foresee any impediments in the way of my project this week, but I can definitely see there being an issue with data management. Even with limited functionality, there seems to be a warning of too much work being done on the main thread of the application. I will have to devote some time to optimizing the stack of the application. I will also need to look into best practices surrounding app development.
+
+As for how to make this process work better, I can plan out the work a little bit more conservatively, too make time for debugging. This next feature has the potential to take up quite a bit of time.
+
 ### Week 8
 Last week, I had I troubleshooted the errors I was getting when trying to implement a database. I resolved all the errors and tested storing instances of restaurant searches. I stored these by time initiated and they contain several attributes such as category and price. There are still several optimizations I want to do related to data management and I need to separate some of the database operations into separate files.
 
