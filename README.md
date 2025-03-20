@@ -2,6 +2,15 @@
 
 ## Weekly Updates
 
+### Week 10
+Last week, I completed initial implementation of google maps integration, allowing users to search for a location and giving a preview. This took quite a bit of trial and error.
+
+This week, I plan to test the functionality of the google maps integration, including storage limitations and optimizing the speed of this feature if possible.
+
+As for any impediments that might exist in the near future, I don't think there should be any concern. I plan to use Spring Break to rest and do a planning poker like session with the rest of the work left.
+
+So far, I think one way to improve is to spend a little bit of time every couple of days for ideation. Sometimes, while working, I get a few random ideas and then I forget them a day or two later. I need to take some time to record these ideas and expand on them if possible.
+
 ### Week 9
 Last week, I started implementing google maps API into my project but ran into quite a few issues which slowed down my progress. There seem to be some issues connecting to the service but I will devote the next week to smoothing out this part.
 
