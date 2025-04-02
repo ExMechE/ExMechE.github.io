@@ -1,6 +1,14 @@
 # Next It Application
 
 ## Weekly Updates
+### Week 11
+I took advantage of last week to reset and take a break so that I can re-enter the project with a set of refreshed eyes. 
+
+This week, I plan to add additional flutter plugins to the project to enhance functionality and UI. These include a refreshed navigation bar and storage of past searches. If there is time, I also expect to update my repo on github to make sure everything is being updated and documented properly.
+
+I don't foresee any impediments in my way. However, there always exists the potential for debugging to take up more of my time than expected. Hopefully, the tasks I have assigned this week aren't too heavy.
+
+Last week was a good time to reset. I think if I find myself struggling to come up with some ideas I should take a break for a day.
 
 ### Week 10
 Last week, I completed initial implementation of google maps integration, allowing users to search for a location and giving a preview. This took quite a bit of trial and error.
