@@ -1,6 +1,31 @@
 # Next It Application
 
 ## Weekly Updates
+### Week 13
+What did you do last week?
+Last week, I refined data storage and processing in the application, leading to less buggy transitions.
+
+What do you plan to do this week?
+
+I plan to integrate some other unique features of flutter packages related to UI.
+
+Are there any impediments in your way?
+
+No, not that I can think of.
+
+Reflection on the process you used last week, how can you make the process work better?
+I have been so engrossed in this project that I wasn't able to put in as much focus into my other class. I will be more balanced this time.
+
+### Week 12
+Last week , I ran into several issues with storing user data related to google maps searches. I did some basic debugging without much luck so that is to be continued.
+
+Next week, I will continue debugging the issues that I had above and maybe set up a better system for data management. I am not sure how long this will take but this will be an important step in scaling up the application to store a lot of attributes at the same time.
+
+I don't really have that many impediments. After narrowing the scope a bit in the last couple weeks, I will likely not have an issue excelling in all my objectives, and this will give me a great direction for finishing it in the months after the class is over.
+
+ 
+I definitely have a good plan for the next couple weeks and my motivation has been sustained and will continue to snowball through the end of the semester. I have learned that a little bit of pressure is effective for helping me attain my goals.
+
 ### Week 11
 I took advantage of last week to reset and take a break so that I can re-enter the project with a set of refreshed eyes. 
 
