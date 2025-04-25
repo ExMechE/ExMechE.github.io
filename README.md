@@ -1,6 +1,19 @@
 # Next It Application
 
 ## Weekly Updates
+### Week 14
+What did you do last week?
+Last week, I pointed the remaining stories I will assign myself the last week of the semester. Most of this is related to documentation but still important nonetheless. I am also have quite a few final exam/final project work to get done so will be balancing my time between those responsibilities.
+
+What do you plan to do this week?
+This week, I will finish up the documentation and update the repo to the latest tags.
+
+Are there any impediments in your way?
+No, things are winding down and I am mostly done with the main things.
+
+Reflection on the process you used last week, how can you make the process work better?
+The process has been smooth so far, hoping to continue this focus until the last day.
+
 ### Week 13
 What did you do last week?
 Last week, I refined data storage and processing in the application, leading to less buggy transitions.
