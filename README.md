@@ -1,6 +1,15 @@
 # Next It Application
 
 ## Weekly Updates
+### Week 15
+Last week, I finished all the documentation tasks for continuing the project beyond this class. I also finished up work for other classes, including assignments and exams. Glad to be done!
+
+This week, I will finish up the report, add anything related to feedback, and reflect on the class as a whole and plan when to continue the project.
+
+No, everything has been really smooth and this week. The last couple weeks were really hectic but it is winding down finally.
+
+Throughout this class, I was motivated to write reflections and make weekly project posts because they are for a grade. However, I need to continue to stay motivated to write similar things in the future because there have been a number of good ideas that have come to my mind while writing them.
+
 ### Week 14
 What did you do last week?
 Last week, I pointed the remaining stories I will assign myself the last week of the semester. Most of this is related to documentation but still important nonetheless. I am also have quite a few final exam/final project work to get done so will be balancing my time between those responsibilities.
